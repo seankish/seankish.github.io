@@ -76,3 +76,9 @@ NAV
 .portfolio-title:hover {
     color: #000000;
 }
+
+.divider {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
